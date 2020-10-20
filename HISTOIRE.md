@@ -15,7 +15,7 @@ IDEES
 Il y aura trois ligues :
 - Une à Kanto, la **Ligue INDIGO** qui aura Silver comme Maitre et quatres nouveaux membres
 - Une à Johto, la **Ligue ARGENTE** qui aura un nouveau champion comme maitre
-- Une à Carmin Sur Mer, qui sera une **Ligue SUPREME** qui sera accessible en fin de jeu après avoir reçu tout les badges et battu les deux ligues. Cette ligue
+- Une à Carmin Sur Mer, qui sera une **Ligue SUPREME** accessible en fin de jeu après avoir reçu tout les badges et battu les deux ligues. Cette ligue
 aura pas de Conseil 4, mais un Conseil 7, ce qui inévitablement augmentera la difficulté de celle-ci.
 
 Après avoir obtenu les 8 badges de KANTO, le **PROF CHEN** a conseillé à **GOLD** comme il l'avait fait précédemment avec **RED** d'aller au **MT SILVER**, espérant
