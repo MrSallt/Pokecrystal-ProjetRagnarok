@@ -41,6 +41,8 @@ Non lui ce qu'il veut c'est avoir l'équipe la plus forte possible et son équip
 **GIOVANI** n'est toujours pas revenu en tant que boss de la Team Rocket, mais il sillonne le monde et s'est rangé, il habite maintenant
 au dessus d'OLIVILLE, dans un chalet, dans le village d'**ALBATRA**.
 
+Au sud d'**ALBATRA** se trouve la ville d'**ANTHRACITE**, la ville cimetière de JOHTO. C'est là bas qu'on trouve notamment les tombes des victimes du massacre de Mewtwo.
+
 **BLUE** enquête sur ce **CREATEUR** durant toute l'aventure et travaille pour la police de JADIELLE. Il n'est plus CHAMPION d'ailleurs,
 c'est un nouveau CHAMPION qui le remplace. Le **CREATEUR** va le retourner contre le joueur à un moment.
 
@@ -49,15 +51,19 @@ d'elle.
 
 **CHRISTY** est la championne d'ARENE de BOURG GEON, elle a continué ses études dans les éclosions diverses avec le **PROF ORME** et elle est devenue incollable sur le sujet.
 
-Au sud d'**ALBATRA** se trouve la ville d'**ANTHRACITE**, la ville cimetière de JOHTO. C'est là bas qu'on trouve notamment les tombes des victimes du massacre de Mewtwo.
+**CAL**, le voyageur que l'on pouvait affronter à **JADIELLE** est devenu le MAITRE de la **LIGUE INDIGO** et affronte tout nouveau dresseur qui déciderai de se mettre sur
+son passage. Il est conscient de sa ressemblance avec l'ancien champion **GOLD** mais affirme haut et fort n'avoir aucun lien de parenté avec lui, puisque lui même est
+étonné de cette ressemblance. 
 
-Le champion d'**ACAJOU** a pris sa retraite. Ce qui signifie qu'il manque une ARENE pour compléter les 8 badges. Cette arène se trouve à **CREAVILLE** et son champion est le **CREATEUR**.
+Le champion d'**ACAJOU** a pris sa retraite. Il est parti vivre dans une ville située entre **ACAJOU** et **EBENELLE** et restera affrontable là bas si le joueur souhaite 
+l'affronter. Ce qui signifie qu'il manque une ARENE pour compléter les 8 badges. Cette arène se trouve à **CREAVILLE** et son champion est le **CREATEUR**. 
 
-La championne d'**EBENELLE** est maintenant membre d'un Conseil 4, il n'y a donc plus de champion à EBENELLE et la ville sert juste de passage entre le **MT SILVER** et JOHTO. Cette ARENE a été remplacée par celle de **BOURG GEON**.
+La championne d'**EBENELLE** est maintenant membre d'un Conseil 4, il n'y a donc plus de champion à EBENELLE et la ville sert juste de passage entre le **MT SILVER** et JOHTO. 
+Cette ARENE a été remplacée par celle de **BOURG GEON**.
 
 LES DRESSEURS
 -------------
-### LA LIGUE INDIGO
+### LA LIGUE ARGENTE
 
 #### MAITRE SILVER - DIVERS
 - DIMORET     LV 56
@@ -66,18 +72,26 @@ LES DRESSEURS
 - NOSTENFER   LV 58
 - ALAKAZAM    LV 56
 - TRIOXHYDRE  LV 60
+"Après toutes ces années de souffrance j'ai enfin atteint mon but, je suis devenu MAITRE ! Oh mais ce n'est pas toi que j'attendais. Tant pis, tu me feras un superbe 
+entraînement. En GARDE RINGARD !"
 
 #### CONSEIL 4 LOLA - FEE 
 #### CONSEIL 4 ANTONIN - ELECTRIQUE
 #### CONSEIL 4 VINCENT - NORMAL
 #### CONSEIL 4 VANYA - PSY
 
-### LA LIGUE ARGENTE
+### LA LIGUE INDIGO
 
-#### MAITRE 
+#### MAITRE CAL - DIVERS
+- PORYGON-Z   LV 77
+- TYRANOCIF   LV 83
+- ELECTHOR    LV 79
+- ALIGATUEUR  LV 85
+- MEGANIUM    LV 85
+- TYPHLOSION  LV 85
+"Tu as l'air surpris ? Non je ne suis pas celui que l'on appelle GOLD, je suis CAL, un simple voyageur à la base qui a décidé de se mesurer au challenge
+de la Ligue INDIGO. Et je suis apparemment plutôt bon puisque je suis rapidement devenu MAITRE !"
 
 ### LA LIGUE SUPREME
 
 #### MAITRE BRICE - DIVERS
-
-
