@@ -61,6 +61,22 @@ l'affronter. Ce qui signifie qu'il manque une ARENE pour compléter les 8 badges
 La championne d'**EBENELLE** est maintenant membre d'un Conseil 4, il n'y a donc plus de champion à EBENELLE et la ville sert juste de passage entre le **MT SILVER** et JOHTO. 
 Cette ARENE a été remplacée par celle de **BOURG GEON**.
 
+NOUVELLES VILLES
+----------------
+#### PINCHARMILLE
+Située au nord d'ARGENTAT, cette petite bourgade abrite la prison des deux régions. C'est là où est enfermé le PROF CHEN et son plus grand fan.
+
+#### CREAVILLE
+La ville du CREATEUR, elle est le centre de toute volonté et de toute attention, si quelqu'un veut quelque chose, c'est là bas qu'il faut qu'il aille.
+Elle est le repère principal de la CREATEAM, et elle abrite dans son ARENE les deux plus puissants dresseurs de la région, RED et GOLD.
+
+#### ALBATRA
+Ville des retraité, de ceux qui recherchent la paix dans ce monde et qui se sont repentis. C'est là bas nottament que vis GIOVANNI.
+
+#### ANTHRACITÉ
+Ville témoin du massacre de Mewtwo. Après que des dresseurs aient tentés de le capturer, Mewtwo sortit de sa grotte et tua tout ceux qui se mettaient sur son chemin.
+La légende raconte que le CREATEUR s'est mit sur son chemin et a réussi à le dompter.
+
 LES DRESSEURS
 -------------
 ### LA LIGUE ARGENTE
