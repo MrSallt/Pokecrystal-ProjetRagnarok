@@ -63,19 +63,24 @@ Cette ARENE a été remplacée par celle de **BOURG GEON**.
 
 NOUVELLES VILLES
 ----------------
+![screenshot](/screenshots/johto.png)
+
+#### AMBRAINE
+Située à l'est de la ROUTE 31 et ville de départ du héros WARRASSE, elle est aussi la zone de repos de tout ceux qui voyagent entre VILLE GRIOTTE et MAUVILLE.
+
 #### PINCHARMILLE
 Située au nord d'ARGENTAT, cette petite bourgade abrite la prison des deux régions. C'est là où est enfermé le PROF CHEN et son plus grand fan.
 
 #### CREAVILLE
-La ville du CREATEUR, elle est le centre de toute volonté et de toute attention, si quelqu'un veut quelque chose, c'est là bas qu'il faut qu'il aille.
-Elle est le repère principal de la CREATEAM, et elle abrite dans son ARENE les deux plus puissants dresseurs de la région, RED et GOLD.
+Située entre la ROUTE 30 et la ROUTE 32. La ville du CREATEUR, elle est le centre de toute volonté et de toute attention, si quelqu'un veut quelque chose, c'est là bas qu'il 
+faut qu'il aille. Elle est le repère principal de la CREATEAM, et elle abrite dans son ARENE les deux plus puissants dresseurs de la région, RED et GOLD.
 
 #### ALBATRA
-Ville des retraité, de ceux qui recherchent la paix dans ce monde et qui se sont repentis. C'est là bas nottament que vis GIOVANNI.
+Située au nord d'OLIVILLE. Ville des retraité, de ceux qui recherchent la paix dans ce monde et qui se sont repentis. C'est là bas nottament que vis GIOVANNI.
 
 #### ANTHRACITÉ
-Ville témoin du massacre de Mewtwo. Après que des dresseurs aient tentés de le capturer, Mewtwo sortit de sa grotte et tua tout ceux qui se mettaient sur son chemin.
-La légende raconte que le CREATEUR s'est mit sur son chemin et a réussi à le dompter.
+Située au sud d'ANTHRACITÉ. Ville témoin du massacre de Mewtwo. Après que des dresseurs aient tentés de le capturer, Mewtwo sortit de sa grotte et tua tout ceux qui se mettaient 
+sur son chemin. La légende raconte que le CREATEUR s'est mit sur son chemin et a réussi à le dompter.
 
 LES DRESSEURS
 -------------
