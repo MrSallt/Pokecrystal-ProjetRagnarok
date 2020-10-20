@@ -87,9 +87,13 @@ Située entre la ROUTE 30 et la ROUTE 32. La ville du CREATEUR, elle est le cent
 faut qu'il aille. Elle est le repère principal de la CREATEAM, et elle abrite dans son ARENE les deux plus puissants dresseurs de la région, RED et GOLD.
 
 #### ALBATRA
+![screenshot](/screenshots/ALBATRA.png)
+
 Située au nord d'OLIVILLE. Ville des retraité, de ceux qui recherchent la paix dans ce monde et qui se sont repentis. C'est là bas nottament que vis GIOVANNI.
 
 #### ANTHRACITÉ
+![screenshot](/screenshots/ANTHRACITE.png)
+
 Située au sud d'ANTHRACITÉ. Ville témoin du massacre de Mewtwo. Après que des dresseurs aient tentés de le capturer, Mewtwo sortit de sa grotte et tua tout ceux qui se mettaient 
 sur son chemin. La légende raconte que le CREATEUR s'est mit sur son chemin et a réussi à le dompter.
 
