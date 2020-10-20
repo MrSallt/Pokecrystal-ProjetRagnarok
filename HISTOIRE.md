@@ -2,7 +2,7 @@ SYNOPSYS
 --------
 
 Le Projet Ragnarok se passe quelques temps après la victoire de Gold contre Red au Mt Silver.
-Les Temps ont changé à JOHTO, et de nouvelles villes sont apparues, parmi ces nouvelles villes, on trouve à l'est de la Route 31 **AMBRAINE**, la ville du nouveau héros,
+Les choses ont changé à JOHTO, et de nouvelles villes sont apparues. Parmi elles, on trouve à l'est de la Route 31 **AMBRAINE**, la ville du nouveau héros,
 **WARRASSE**. C'est un adulte qui vit seul dans sa maison et qui a de la famille à **HOENN**. A **AMBRAINE** il a un voisin, qui,
 intéressé par les travaux du **PROF CHEN** a décidé de lui vouer un culte et donc de lui ressembler. 
 Il va fournir à **WARRASSE** son premier Pokémon et va lui donner son **POKEDEX** avant d'être embarqué par la Police à cause de copies
