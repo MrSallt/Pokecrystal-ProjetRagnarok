@@ -71,9 +71,12 @@ NOUVELLES VILLES
 ![screenshot](/screenshots/johto.png)
 
 #### AMBRAINE
+![screenshot](/screenshots/AMBRAINE.png)
+
 Située à l'est de la ROUTE 31 et ville de départ du héros WARRASSE, elle est aussi la zone de repos de tout ceux qui voyagent entre VILLE GRIOTTE et MAUVILLE.
 
 #### PINCHARMILLE
+![screenshot](/screenshots/PINCHARMILLE.png)
 Située au nord d'ARGENTAT, cette petite bourgade abrite la prison des deux régions. C'est là où est enfermé le PROF CHEN et son plus grand fan.
 
 #### CREAVILLE
