@@ -72,6 +72,7 @@ LES DRESSEURS
 - NOSTENFER   LV 58
 - ALAKAZAM    LV 56
 - TRIOXHYDRE  LV 60
+
 "Après toutes ces années de souffrance j'ai enfin atteint mon but, je suis devenu MAITRE ! Oh mais ce n'est pas toi que j'attendais. Tant pis, tu me feras un superbe 
 entraînement. En GARDE RINGARD !"
 
@@ -89,9 +90,36 @@ entraînement. En GARDE RINGARD !"
 - ALIGATUEUR  LV 85
 - MEGANIUM    LV 85
 - TYPHLOSION  LV 85
+
 "Tu as l'air surpris ? Non je ne suis pas celui que l'on appelle GOLD, je suis CAL, un simple voyageur à la base qui a décidé de se mesurer au challenge
 de la Ligue INDIGO. Et je suis apparemment plutôt bon puisque je suis rapidement devenu MAITRE !"
 
 ### LA LIGUE SUPREME
 
 #### MAITRE BRICE - DIVERS
+
+#### DRESSEURS SPECIAUX
+
+### CREATEUR MAXIME
+- GOLDHYENA   LV
+- DRACARNAGE  LV
+- PORYGON-3   LV
+- FOURPEREUR  LV 
+- HYPERCYCL   LV
+- TROUNORME   LV
+
+### DRESSEUR RED
+- PIKACHU     LV
+- RONFLEX     LV
+- MENTALI     LV
+- TORTANK     LV
+- FLORIZARRE  LV
+- DRACAUFEU   LV
+
+### DRESSEUR GOLD
+- TYRANOCIF   LV
+- TOGEKISS    LV
+- HELIATRONC  LV
+- SIMULARBRE  LV
+- TARPAUD     LV
+- TYPHLOSION  LV
