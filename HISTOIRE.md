@@ -55,6 +55,11 @@ d'elle.
 son passage. Il est conscient de sa ressemblance avec l'ancien champion **GOLD** mais affirme haut et fort n'avoir aucun lien de parenté avec lui, puisque lui même est
 étonné de cette ressemblance. 
 
+**OLGA**, **ALDO** et **AGATHA** sont tous affrontables dans le jeu. 
+- **OLGA** se trouve dans une maison aux ILES ECUMES
+- **ALDO** se trouve dans une maison à SAFRANIA
+- **AGATHA** se trouve dans une maison de LAVANVILLE
+
 Le champion d'**ACAJOU** a pris sa retraite. Il est parti vivre dans une ville située entre **ACAJOU** et **EBENELLE** et restera affrontable là bas si le joueur souhaite 
 l'affronter. Ce qui signifie qu'il manque une ARENE pour compléter les 8 badges. Cette arène se trouve à **CREAVILLE** et son champion est le **CREATEUR**. 
 
