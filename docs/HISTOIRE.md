@@ -66,6 +66,8 @@ l'affronter. Ce qui signifie qu'il manque une ARENE pour compléter les 8 badges
 La championne d'**EBENELLE** est maintenant membre d'un Conseil 4, il n'y a donc plus de champion à EBENELLE et la ville sert juste de passage entre le **MT SILVER** et JOHTO. 
 Cette ARENE a été remplacée par celle de **BOURG GEON**.
 
+Deux nouveaux types de Pokémon ont été implémentés pour pouvoir subvenir aux besoins du **CREATEUR**. Le type **CHAOS** qui est caractéristique des pokmons incontrôlables, ingérables et qui sont surpuissants.
+
 NOUVELLES VILLES
 ----------------
 ![screenshot](/screenshots/johto.png)
